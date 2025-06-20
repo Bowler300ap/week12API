@@ -1,0 +1,19 @@
+{
+  "name": "week12api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "week12.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bowler300ap/week12API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bowler300ap/week12API/issues"
+  },
+  "homepage": "https://github.com/Bowler300ap/week12API#readme"
+}
